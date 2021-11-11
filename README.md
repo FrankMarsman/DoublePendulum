@@ -1,6 +1,11 @@
 # DoublePendulum
 Simulation of a double pendulum
 
+##
+<p float="left">
+<img src="https://github.com/FrankMarsman/DoublePendulum/blob/main/images/gui_anim.gif" width="616" height="440">
+</p>
+
 ## Example simulations
 Three example simulations are shown below. It is possible to create a wide range of simulations, by adjusting the parameters of the simulation.
 
