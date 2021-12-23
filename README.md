@@ -1,7 +1,13 @@
-# DoublePendulum
-Simulation of a double pendulum
 
-##
+# DoublePendulum
+Simulation of a double pendulum. A long term exposure generated with the program is shown below.
+
+<p float="left">
+<img src="https://github.com/FrankMarsman/DoublePendulum/blob/main/images/00_BALL_MAIN.png" width="350" height="350">
+</p>
+
+## GUI 
+
 <p float="left">
 <img src="https://github.com/FrankMarsman/DoublePendulum/blob/main/images/gui_anim.gif" width="616" height="440">
 </p>
